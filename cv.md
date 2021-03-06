@@ -48,7 +48,7 @@ I'm studing in Minsk State Technological College, like a computer engineer.
 ###### 2019 - 2020
 
 This is my first acquaintance with development of websites. At first it was so hard, but when i started
-to get deaper and deaper, i understood that is so easy. If you want to be a good developer you must spent at least
+to get deaper and deaper, i understood that it's so easy. If you want to be a good developer you must spent at least
 6 hours to make what you want. And for me it was such a good experience to make something new and interesting
 <br>
 In yandex praktikum i studied for 3 months, during this time i understood that i want to connect my carreer with
