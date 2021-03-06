@@ -17,8 +17,8 @@ _City: Minsk, Belarus_
 ---
 
 _GitHub_ - **https://github.com/MathewDuboleko**
-_Discord_ - **chotkigus #1377**
-_Telegram_ - **chotkigus**
+<br>_Discord_ - **chotkigus #1377**
+<br>_Telegram_ - **chotkigus**
 
 ---
 
@@ -34,7 +34,6 @@ to achieve new goals, so thats why I'm here. In future i want begin my career li
 > I extremely motivated to become a good programmist
 
 ### Education
-g
 ---
 
 #### College
